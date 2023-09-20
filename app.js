@@ -2,3 +2,4 @@ const input = document.querySelector("input");
 const button = document.querySelector("button");
 
 const place = document.querySelector()
+const name = document.querySelector()
